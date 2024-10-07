@@ -1,11 +1,11 @@
 
 <h3 style = "textaling: justify;" >
 Olá!   
-Me chamo Antonio Braga. Sou acadêmico de Engenharia de Software. Possuo um pouco de experiência com o básico de Front-end e ciência de dados devido a cursos extracurriculares da universidade que estudo. Apesar disso, meu foco atual é em Back-end.</h2>
+Me chamo Antonio Braga. Sou acadêmico de Engenharia de Software.</h2>
 
-<h2>📘:Java ☕</h2>
-<h2>📚:HTML/CSS/JS 🖼️</h2>
-<h2>📖:Métodos ágeis e Teste de Software 👌</h2>
+<h2>📘:Java ☕</h3>
+<h2>📚:HTML/CSS/JS 🖼️</h3>
+<h2>📖:Métodos ágeis e Teste de Software 👌</h3>
 
 
 <picture>
