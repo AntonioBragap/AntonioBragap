@@ -36,3 +36,5 @@ Me chamo Antonio Braga. Sou acadêmico de Engenharia de Software.</h2>
 <div> 
    <a href="https://www.linkedin.com/in/antonio-prudenteb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+
+  <p>ps: Isso aqui tá uma bagunça mas juro que estou produzindo!</p>
